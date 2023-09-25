@@ -1,0 +1,6 @@
+package ejemplo;
+
+public class Cliente{
+	private int id;
+	private String cliente;
+}
