@@ -1,0 +1,7 @@
+package ejemplo;
+
+public class Principal{
+	public static void main (String[] argumentos){
+		System.out.printLn("Hola Mundo");
+	}
+}
